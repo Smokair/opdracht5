@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="oef1\.vs\oef1\DesignTimeBuild\.dtbcache.v2" />
+    <None Include="oef1\.vs\oef1\FileContentIndex\5938ff4d-19e4-4bb6-ad76-d424318768e8.vsidx" />
+    <None Include="oef1\.vs\oef1\FileContentIndex\read.lock" />
+    <None Include="oef1\.vs\oef1\v17\.futdcache.v2" />
+    <None Include="oef1\.vs\ProjectEvaluation\oef1.metadata.v5.1" />
+    <None Include="oef1\.vs\ProjectEvaluation\oef1.projects.v5.1" />
+    <None Include="oef1\oef1.sln" />
+    <None Include="oef1\oef1\oef1.csproj" />
+    <None Include="oef1\oef1\oef1.csproj.user" />
+    <None Include="Oef2\Oef2.sln" />
+    <None Include="Oef2\Oef2\Oef2.csproj" />
+    <None Include="Oef2\Oef2\Oef2.csproj.user" />
+    <None Include="Oef3\Oef3.sln" />
+    <None Include="Oef3\Oef3\Oef3.csproj" />
+    <None Include="Oef3\Oef3\Oef3.csproj.user" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="oef1\.vs\oef1\FileContentIndex\merges\" />
+    <Folder Include="oef1\oef1\bin\Release\net6.0-windows\" />
+    <Folder Include="oef1\oef1\obj\Debug\net6.0-windows\refint\" />
+    <Folder Include="oef1\oef1\obj\Release\net6.0-windows\refint\" />
+    <Folder Include="oef1\oef1\obj\Release\net6.0-windows\ref\" />
+    <Folder Include="Oef2\Oef2\bin\Release\net6.0-windows\" />
+    <Folder Include="Oef2\Oef2\obj\Debug\net6.0-windows\refint\" />
+    <Folder Include="Oef2\Oef2\obj\Release\net6.0-windows\refint\" />
+    <Folder Include="Oef2\Oef2\obj\Release\net6.0-windows\ref\" />
+    <Folder Include="Oef3\Oef3\bin\Release\net6.0-windows\" />
+    <Folder Include="Oef3\Oef3\obj\Debug\net6.0-windows\refint\" />
+    <Folder Include="Oef3\Oef3\obj\Release\net6.0-windows\refint\" />
+    <Folder Include="Oef3\Oef3\obj\Release\net6.0-windows\ref\" />
+  </ItemGroup>
+
+</Project>
