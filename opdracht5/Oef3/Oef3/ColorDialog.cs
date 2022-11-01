@@ -28,7 +28,7 @@ namespace Oef3
             Form1.LijstKleur_R[Form1.CurrentBox] = (int)numericUpDown1.Value;
             Form1.CurrentTextBox.BackColor = Color.FromArgb(Form1.LijstKleur_A[Form1.CurrentBox], Form1.LijstKleur_R[Form1.CurrentBox], Form1.LijstKleur_G[Form1.CurrentBox], Form1.LijstKleur_B[Form1.CurrentBox]);
 
-           
+          
 
         }
 
